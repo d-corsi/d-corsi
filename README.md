@@ -4,7 +4,7 @@ I am a Ph.D. candidate in Computer Science at the University of Verona (Italy), 
 ### :closed_book: Thesis Material :closed_book:
 - **Thesis**: *link coming soon...*
 - **ProVe**: https://github.com/d-corsi/ProVe
-- **Lambda-PPO**: *link coming soon...*
+- **Lambda-PPO**: https://github.com/d-corsi/lambda-PPO
 - **NetVer**: https://github.com/d-corsi/NetworkVerifier
 
 ### 📫 Contact 📫
