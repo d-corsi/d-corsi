@@ -8,8 +8,8 @@ I am a Ph.D. candidate in Computer Science at the University of Verona (Italy), 
 - **NetVer**: https://github.com/d-corsi/NetworkVerifier
 
 ### 📫 Contact 📫
-- davide.corsi@univr.it
-- davide.corsi@mail.huji.ac.il
+- **Website**: https://d-corsi.github.io/
+- **Mail**: davide.corsi@univr.it or davide.corsi@mail.huji.ac.il
 
 <!--
 **d-corsi/d-corsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
