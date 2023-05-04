@@ -9,7 +9,7 @@ I am a Ph.D. student in Computer Science at the University of Verona (Italy :it:
 - **Lambda-PPO**: *link coming soon...*
 - **NetVer**: https://github.com/d-corsi/NetworkVerifier
 
-### 📫 ontact 📫
+### 📫 Contact 📫
 - davide.corsi@univr.it
 - davide.corsi@mail.huji.ac.il
 
