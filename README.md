@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-I'm Davide Corsi, a PhD Candidate from the University of Verona, Italy :it:
-I am a Ph.D. student in Computer Science at the University of Verona (Italy :it:), advised by Prof. Alessandro Farinelli. I worked as a visiting student under the supervision of Prof. Guy Katz at the Hebrew University of Jerusalem (Israel :is:).
+I am a Ph.D. candidate in Computer Science at the University of Verona (Italy), advised by [Prof. Alessandro Farinelli](http://profs.sci.univr.it/~farinelli/). I worked as a visiting student under the supervision of [Prof. Guy Katz](https://www.katz-lab.com/) at the Hebrew University of Jerusalem (Israel).
 
 ### :ledger: Thesis Material :ledger:
 - **Thesis**: *link coming soon...*
