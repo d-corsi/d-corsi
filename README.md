@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a Ph.D. candidate in Computer Science at the University of Verona (Italy), advised by [Prof. Alessandro Farinelli](http://profs.sci.univr.it/~farinelli/). I worked as a visiting student under the supervision of [Prof. Guy Katz](https://www.katz-lab.com/) at the Hebrew University of Jerusalem (Israel).
 
-### :ledger: Thesis Material :ledger:
+### :closed_book: Thesis Material :closed_book:
 - **Thesis**: *link coming soon...*
 - **ProVe**: https://github.com/d-corsi/ProVe
 - **Lambda-PPO**: *link coming soon...*
