@@ -6,6 +6,7 @@ I am a Ph.D. candidate in Computer Science at the University of Verona (Italy), 
 - **ProVe**: https://github.com/d-corsi/ProVe
 - **Lambda-PPO**: https://github.com/d-corsi/lambda-PPO
 - **NetVer**: https://github.com/d-corsi/NetworkVerifier
+- **Multi-Step Verification**: https://zenodo.org/record/7479970#.ZFYVmNJBxhE
 
 ### 📫 Contact 📫
 - **Website**: https://d-corsi.github.io/
