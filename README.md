@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Postdoctoral Research Associate in Artificial Intelligence and Robotics at the University of Verona (Italy), advised by [Prof. Alessandro Farinelli](http://profs.sci.univr.it/~farinelli/). I worked as a visiting student under the supervision of [Prof. Guy Katz](https://www.katz-lab.com/) at the Hebrew University of Jerusalem (Israel).
+I am a Postdoctoral Research Associate in Artificial Intelligence and Robotics at the University of Verona (Italy), advised by [Prof. Alessandro Farinelli](http://profs.sci.univr.it/~farinelli/). I worked as a visiting researcher under the supervision of [Prof. Guy Katz](https://www.katz-lab.com/) at the Hebrew University of Jerusalem (Israel).
 
 ### 📫 Contact 📫
 - **Website**: https://d-corsi.github.io/
