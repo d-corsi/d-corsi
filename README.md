@@ -1,12 +1,5 @@
 ### Hi there 👋
-I am a Ph.D. candidate in Computer Science at the University of Verona (Italy), advised by [Prof. Alessandro Farinelli](http://profs.sci.univr.it/~farinelli/). I worked as a visiting student under the supervision of [Prof. Guy Katz](https://www.katz-lab.com/) at the Hebrew University of Jerusalem (Israel).
-
-### :closed_book: Ph.D. Thesis Material :closed_book:
-- **Thesis**: https://d-corsi.github.io/assets/pdf/Corsi2023thesis.pdf
-- **ProVe**: https://github.com/d-corsi/ProVe
-- **Lambda-PPO**: https://github.com/d-corsi/lambda-PPO
-- **NetVer**: https://github.com/d-corsi/NetworkVerifier
-- **Multi-Step Verification**: https://zenodo.org/record/7479970#.ZFYVmNJBxhE
+I am a Postdoctoral Research Associate in Artificial Intelligence and Robotics at the University of Verona (Italy), advised by [Prof. Alessandro Farinelli](http://profs.sci.univr.it/~farinelli/). I worked as a visiting student under the supervision of [Prof. Guy Katz](https://www.katz-lab.com/) at the Hebrew University of Jerusalem (Israel).
 
 ### 📫 Contact 📫
 - **Website**: https://d-corsi.github.io/
