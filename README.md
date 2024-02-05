@@ -7,7 +7,7 @@ My research interests focus on developing novel **Deep Reinforcement Learning (D
 ### 📫 Contact 📫
 - **Website**: https://d-corsi.github.io/
 - **Google Scholar**: https://scholar.google.com/citations?user=chv2d8IAAAAJ&hl=en
-- **Mail**: davide.corsi@univr.it or davide.corsi@mail.huji.ac.il
+- **Mail**: dcorsi@uci.edu
 
 <!--
 **d-corsi/d-corsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
