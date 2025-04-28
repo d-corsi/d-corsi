@@ -1,12 +1,14 @@
-### Hi there 👋
-I am a Postdoctoral Researcher at [University of California: Irvine](https://uci.edu), in the [Intelligent Dynamics Lab](https://indylab.org) under the supervision of [Prof. Roy Fox](https://royf.org). Previously, I worked as a visiting researcher under the supervision of [Prof. Guy Katz](https://www.katz-lab.com/) at the Hebrew University of Jerusalem and I obtained my PhD at the University of Verona advised by [Prof. Alessandro Farinelli](http://profs.sci.univr.it/~farinelli/).
+### Hi there 👋  
+I'm a Postdoctoral Researcher at [University of California: Irvine](https://uci.edu), working in the [Intelligent Dynamics Lab](https://indylab.org) led by [Prof. Roy Fox](https://royf.org). Before that, I spent time as a visiting researcher with [Prof. Guy Katz](https://www.katz-lab.com/) at the Hebrew University of Jerusalem and completed my PhD at the University of Verona under [Prof. Alessandro Farinelli](http://profs.sci.univr.it/~farinelli/).
 
-### Research Interests 🔭
-My **research interests** centers on advancing **Deep Reinforcement Learning (DRL)** for robotics, with a focus on creating safe and reliable systems in critical settings. I tackle this from two sides: safe training through **constrained reinforcement learning** and validation with **formal verification of neural networks**. Lately, I’ve also been diving into **model-based RL** and **world modeling** —- working toward systems that can not only react but also predict what’s next. Merging theory with real-world robotic challenges is key to my approach, aiming to push boundaries in practical, forward-looking AI. 
+### Research Interests 🔭  
+I'm passionate about advancing **Deep Reinforcement Learning (DRL)** for robotics, especially making it **safe and reliable** in real-world, safety-critical environments. My work focuses on **constrained reinforcement learning**, **verification**, and **shielding** methods to ensure that robots behave safely when deployed.  
+Lately, I’ve been diving into **generative models** to build **world models** — equipping robots with the ability to **predict the future** and **make informed decisions** based on the consequences of their actions. I'm also applying **causal reasoning** to structure these models better and boost their generalization to new scenarios.  
+Bridging the gap between theory and practical robotics is at the heart of what I do.
 
-### 📫 Contact 📫
-- **Website**: https://d-corsi.github.io/
-- **Google Scholar**: https://scholar.google.com/citations?user=chv2d8IAAAAJ&hl=en
+### 📫 Contact 📫  
+- **Website**: [https://d-corsi.github.io/](https://d-corsi.github.io/)
+- **Google Scholar**: [https://scholar.google.com/citations?user=chv2d8IAAAAJ&hl=en](https://scholar.google.com/citations?user=chv2d8IAAAAJ&hl=en)
 - **Mail**: dcorsi@uci.edu
 
 <!--
